@@ -1,0 +1,7 @@
+name: SMP
+version: '${project.version}'
+main: smp.smp.Smp
+api-version: 1.19
+prefix: SMP
+authors: [ FiReLScar ]
+description: Whitelist Bot
